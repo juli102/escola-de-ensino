@@ -22,3 +22,16 @@ Operações matemáticas para calculo de diferente estatísticas <br><br>
 Instanciação de diferentes arquivos.py <br><br>
 Biblioteca Tkinter para a abertura de janelas de seleção de arquivo  <br><br>
 Métodos property e setter para apenas permitir o cadastramento de dados válidos  <br><br>
+
+<h1> Desenvolver um sistema de gerenciamento utilizando a linguagem de programação Python, um banco de dados relacional e a biblioteca Tkinter para criação das interfaces gráficas. </h1>
+Objetivo: Desenvolver um sistema de gerenciamento utilizando a linguagem de programação 
+Python, um banco de dados relacional e a biblioteca Tkinter para criação das interfaces 
+gráficas.  <br> <br>
+Requisitos: 
+1. Crie um sistema que permita ao usuário adicionar, visualizar, atualizar e excluir. 
+2. Deve ter uma tela de Login/Cadastro simples inicial. 
+3. Utilize um banco de dados para armazenar as informações das tarefas. 
+4. Implemente telas gráficas utilizando a biblioteca Tkinter para interação com o usuário. 
+5. Adicione funcionalidades para salvar e carregar os dados de login a partir de um 
+arquivo de texto (.txt) temporário, como um log, cada novo login dar data e horário, 
+ele é apagado mensalmente. <br><br>
